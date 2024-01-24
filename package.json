@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rampatra/photography.git"
+    "url": "git+https://github.com/Danielninetyfour/photography.git"
   },
   "keywords": [
     "photography",
@@ -19,12 +19,12 @@
     "portfolio",
     "portfolio website"
   ],
-  "author": "Ram Patra",
+  "author": "Danielninetyfour",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/rampatra/photography/issues"
+    "url": "https://github.com/rampatra/Danielninetyfour/issues"
   },
-  "homepage": "https://github.com/rampatra/photography#readme",
+  "homepage": "https://github.com/Danielninetyfour/photography#readme",
   "devDependencies": {
     "del": "^4.1.1",
     "gulp": "^4.0.2",

@@ -14,15 +14,15 @@ header:
  subtitle: "by Daniel Ng"
 footer:
  name: "Hey there, my name is Daniel"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
-web_design: "AJ"
+ bio: "I am a developer from Singapore and enjoys photography as a hobby"
+#  github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork this repo on github</a> ;)"
+web_design: "DN"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  # twitter: "https://www.twitter.com/ram__patra"
+  instagram: "https://www.instagram.com/danielninetyfour"
+  # dribbble: "https://dribbble.com/rampatra"
+  linkedin: "https://www.linkedin.com/in/zheng-hui-ng-8a920a189/"
+  github: "https://www.github.com/ngzhenghui94"
